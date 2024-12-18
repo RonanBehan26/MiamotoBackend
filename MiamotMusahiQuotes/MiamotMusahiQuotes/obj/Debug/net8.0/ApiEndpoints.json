@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "MiamotMusahiQuotes.Controllers.ArtworksController",
+    "Method": "GetArtworks",
+    "RelativePath": "api/Artworks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiamotMusahiQuotes.Controllers.QuotesController",
+    "Method": "GetQuotes",
+    "RelativePath": "api/Quotes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
